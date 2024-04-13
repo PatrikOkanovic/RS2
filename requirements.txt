@@ -1,0 +1,13 @@
+prefetch_generator==1.0.3
+requests==2.30.0
+scipy==1.10.1
+torch==1.12.1
+torchvision==0.13.1
+ptflops==0.7
+tqdm==4.65.0
+pandas==2.0.1
+matplotlib==3.7.1
+seaborn==0.12.2
+numpy==1.24.3
+scikit-learn==1.2.2
+einops==0.6.1
